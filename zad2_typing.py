@@ -5,4 +5,5 @@ def mnozenie_liczb():
     result = a * b
     print("Wynik mnożenia tych liczb to:", result)
 
+
 mnozenie_liczb()

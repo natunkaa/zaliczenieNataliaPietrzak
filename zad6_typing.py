@@ -5,6 +5,8 @@ def polacz_i_przetworz(list1, list2):
     return przetworzona_lista
 
 # Przykład użycia:
+
+
 lista1 = [1, 2, 3, 4]
 lista2 = [3, 4, 5, 6]
 wynik = polacz_i_przetworz(lista1, lista2)

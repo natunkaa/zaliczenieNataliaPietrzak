@@ -7,6 +7,7 @@ def pelne_imie():
     full_name = f"{name} {surname}"
     return full_name
 
+
 full_name = pelne_imie()
 
 print(f"Twoje imię i nazwisko to: {full_name}")
