@@ -4,7 +4,7 @@ class Property:
         self.rooms = rooms
         self.price = price
         self.address = address
-
+        
     def __str__(self):
         return f"property: {self.area} sq. meters, {self.rooms} rooms\n" \
                f"price: ${self.price}\nAddress: {self.address}"
