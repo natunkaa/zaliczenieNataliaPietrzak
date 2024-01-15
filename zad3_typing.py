@@ -1,7 +1,6 @@
 def sprawdz_parzystosc(liczba):
     return liczba % 2 == 0
-
-# Wczytanie liczby od użytkownika
+    
 x = int(input("Wpisz liczbę: "))
 
 # Przykładowe użycie funkcji
