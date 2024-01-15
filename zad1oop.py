@@ -7,6 +7,7 @@ class Student:
         average_marks = sum(self.marks) / len(self.marks)
         return average_marks > 50
 
+
 student1 = Student("Konrad Różański", [60, 75, 80, 90, 65])
 student2 = Student("Wojciech Piasecki", [40, 35, 55, 48, 42])
 
